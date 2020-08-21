@@ -3,17 +3,17 @@
   "features" : [
     {
       "type" : "Feature",
-      "id" : 1,
+      "id" : 2,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
-          -76.264743088575017,
-          39.962847002095778,
-          300
+          -117.19566699624455,
+          34.05607035033978,
+          0
         ]
       },
       "properties" : {
-        "OBJECTID" : 1
+        "OBJECTID" : 2
       }
     }
   ]
